@@ -5,7 +5,7 @@ as taught at Stanford in winter 2016: http://cs231n.github.io/
 
 Current status:
 * assignment1: done
-* assignment2: in progress (working on ConvNet)
+* assignment2: "done" (still some optimization to do)
 * assignment3: haven't started
 
 TODO:
